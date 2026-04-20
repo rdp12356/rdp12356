@@ -1,36 +1,99 @@
-# Hi, I’m Johan Manoj
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-AI and product-focused full-stack developer building practical tools in education and cybersecurity.  
-I turn ideas into real products, from rapid prototypes to production-ready platforms.
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Johan Manoj</strong>
+</h1>
 
-## About Me
-- Building AI-powered student guidance products
-- Interested in scalable architecture and clean user experiences
-- Enjoy hackathons, product shipping, and fast iteration
+<h3>Full Stack Developer | React 19 • Python • AI-Integrated Apps</h3>
 
-## What I’m Working On
-- Zertainity: AI-powered career guidance platform
-- CyberGuardian ecosystem: security tools and analytics
-- Research-driven developer products
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-## Tech Stack
-- Languages: TypeScript, JavaScript, Python
-- Frontend: React, Vite, Tailwind CSS
-- Backend and Data: Supabase, SQL
-- Tools: Git, GitHub, Jest, ESLint
+  <p>
+    I build modern, scalable, and AI-powered applications that combine performance with clean UI/UX.  
+    From full-stack platforms to mobile apps, I focus on real-world impact, automation, and seamless user experience.
+  </p>
 
-## Featured Projects
-- Zertainity: Career guidance with personalized learning and roadmap support
-- cyberguardian-platform: Comprehensive cybersecurity platform with analytics
-- ResearchHub: Structured research workflow and idea management
-- ExpenseMaster: Practical personal finance tracking app
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Building_Full_Stack_Products-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖_AI_Ready_Apps-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💡_Always_Exploring-New_Tech-1e1e2e?style=for-the-badge" />
+  </p>
 
-## Social Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://johanmanoj.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-rdp12356-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rdp12356)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanmanoj2009)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/johanmanoj01)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johanmanoj2009@gmail.com)
+<h3>🌐 Connect With Me</h3>
 
-## Current Goal
-Building high-impact AI products that help students make better academic and career decisions.
+<p align="left">
+  <a href="https://github.com/rdp12356">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=rdp12356&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,mongodb" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,postman" />
+
+</td>
+</tr>
+</table>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **ExpenseMaster** – AI-ready expense tracker with multi-currency + Supabase sync  
+- 🔹 **AMARE Platform** – Charity + stall management system with payment integration  
+- 🔹 **Sanskara School System** – Full-stack dynamic website with live data  
+- 🔹 **Portfolio Website** – Modern React 19 + Tailwind + animations  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rdp12356&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+</p>
