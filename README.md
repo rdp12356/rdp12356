@@ -1,99 +1,142 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Johan Manoj</strong>
-</h1>
-
-<h3>Full Stack Developer | React 19 • Python • AI-Integrated Apps</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I build modern, scalable, and AI-powered applications that combine performance with clean UI/UX.  
-    From full-stack platforms to mobile apps, I focus on real-world impact, automation, and seamless user experience.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Building_Full_Stack_Products-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤖_AI_Ready_Apps-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💡_Always_Exploring-New_Tech-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Connect With Me</h3>
-
-<p align="left">
-  <a href="https://github.com/rdp12356">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+<!-- 🌌 HERO BANNER (UNCHANGED) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=rdp12356&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
+<!-- ⚡ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Johan+Manoj;Full+Stack+Developer;AI+Integrated+Builder;React+%7C+Python+%7C+Systems" />
+</p>
 
 ---
 
-## 🛠️ Skills
+<h1 align="center">👋 Johan Manoj</h1>
+<h3 align="center">Full Stack Developer • AI Systems • Scalable Products</h3>
+
+---
+
+## 🧠 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+- 🚀 Building **scalable, production-ready apps**
+- 🤖 Integrating **AI into real-world systems**
+- 🎯 Focused on **performance + UX**
+- 🌱 Exploring **advanced system design & AI infra**
+
+📍 India  
+🌐 Portfolio: https://johanmanoj.me  
+📧 Email: johanmanoj2009@gmail.com  
+
+---
+
+## 🌐 Connect
 
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+  <a href="https://github.com/rdp12356">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript" />
-<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdp12356&style=for-the-badge&color=blue" />
+</p>
 
-</td>
+---
 
-<td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask" />
+<p align="center">
 
-</td>
-</tr>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
+### ⚙️ Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind" />
 
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,mongodb" />
-<br/><br/>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
 
-</td>
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
 
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,postman" />
-
-</td>
-</tr>
-</table>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **ExpenseMaster** – AI-ready expense tracker with multi-currency + Supabase sync  
-- 🔹 **AMARE Platform** – Charity + stall management system with payment integration  
-- 🔹 **Sanskara School System** – Full-stack dynamic website with live data  
-- 🔹 **Portfolio Website** – Modern React 19 + Tailwind + animations  
+<p align="center">
+  <a href="https://github.com/rdp12356/ExpenseMaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdp12356&repo=ExpenseMaster&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rdp12356/AMARE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdp12356&repo=AMARE&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rdp12356">
+    <img src="https://github-readme-stats.vercel.app/api?username=rdp12356&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/rdp12356">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdp12356&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=rdp12356&theme=dark&hide_border=true" alt="Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdp12356&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rdp12356&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🔥 All Repositories (Auto Discoverable)
+
+> GitHub automatically shows your repos below when users visit your profile.  
+But you can highlight more dynamically:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdp12356&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Fun Add-ons
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💡 Current Focus
+
+- 🧠 AI-powered SaaS products  
+- ⚡ Real-time systems  
+- 🌍 Scalable architecture  
+
+---
+
+<p align="center">
+  ⭐️ If you like my work, consider following!
 </p>
