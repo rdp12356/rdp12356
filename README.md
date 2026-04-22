@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rdp12356">
+  <a href="https://github.com/rdp12356/Zertainity">
     <img src="https://github-readme-stats.vercel.app/api?username=rdp12356&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/rdp12356">
